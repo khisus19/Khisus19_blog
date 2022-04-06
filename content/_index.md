@@ -15,3 +15,11 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 + Desarrollar nuevas habilidades para poder obtener un empleo digno.
 + Mejorar como persona y como desarrollador.
 + Conocer personas afines a este mundo.
+
+<ul>
+  <li>Reforzar mis conocimientos en Git y Github.</li>
+  <li>Conocer el mundo Backend para tener un visión más clara a donde dirigirme.</li>
+  <li>Desarrollar nuevas habilidades para poder obtener un empleo digno.</li>
+  <li>Mejorar como persona y como desarrollador.</li>
+  <li>Conocer personas afines a este mundo.</li>
+</ul>

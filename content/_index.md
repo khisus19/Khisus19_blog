@@ -9,5 +9,6 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
 
-## Mis expectativas de aprendizaje son:  
-- Reforzar mis conocimientos en Git y Github. 
+#### Mis expectativas de aprendizaje son:  
++ Reforzar mis conocimientos en Git y Github. 
++ Conocer el mundo Backend para tener un visión más clara a donde dirigirme.

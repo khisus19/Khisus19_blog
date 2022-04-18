@@ -4,9 +4,9 @@ date: 2022-04-18
 description: 'Algunas de las cosas que estoy aprendiendo durante esta semana'
 ---
 
-Hola. Gracias por llegar hasta aquí.
+### Hola. Gracias por llegar hasta aquí.
 
-En esta semana estuve estudiando con el curso de Javascript básico de freeCodeCamp en español. Los puntos que estuve viendo fueron:
+En esta semana estuve estudiando con el curso de Javascript básico de **freeCodeCamp** en español. Los puntos que estuve viendo fueron:
 
 - Condicionales if y switch.
 - Cómo usar switch para conteo de cartas en Blackjack.

@@ -18,6 +18,16 @@
     </item>
     
     <item>
+      <title>Semana del 17 al 23 de Abril de 2022</title>
+      <link>https://khisus19.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://khisus19.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hola. Gracias por llegar hasta aquí. En esta semana estuve dedicado completamente a terminar las prácticas de Backend del MC Carlo. Me falta poco para estar al día. Me gustó mucho en el enfoque Test Driven Development TDD.
+Dudas que me quedaron de esta semana:  Trabajar con servers. Express.js. Cómo trabajar en un proyecto que no use git. Cómo convertir de otro VCS a git y viceversa. Reforzar mucho mucho más las pruebas con jest.</description>
+    </item>
+    
+    <item>
       <title>La Cultura de un desarrollador de software</title>
       <link>https://khisus19.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Thu, 07 Apr 2022 09:14:21 -0600</pubDate>

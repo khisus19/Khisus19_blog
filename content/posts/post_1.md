@@ -31,6 +31,6 @@ Por otro lado también descargué los libros de Pro Git y Elocuent Javascript. Y
 - Cómo trabajar en un proyecto que no use git. Cómo convertir de otro VCS a git y viceversa.
 - Reforzar mucho mucho más los Objetos de Javascript.
 
-Esta semana no hice nada en platzi por estar en las demás cosas. Si tengo tiempo quisiera dedicar un tiempo al Curso de POO de Platzi.
+Esta semana no hice nada en platzi por estar en las demás cosas. Si tengo tiempo quisiera dedicarlo al Curso de POO de Platzi.
 
 ## Confío en Dios. Él es la luz que me guía en la oscuridad de la ignorancia en este mundo nuevo en el que estoy entrando.

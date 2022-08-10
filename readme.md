@@ -1,11 +1,7 @@
-![banner](https://user-images.githubusercontent.com/17634377/155042185-d8a46812-04aa-4534-88e6-cdfb8b3f02f6.png)
+## My Tech Journey Blog 🚀
 
-## My Launch X Blog: Bitácora de Viaje 🚀
+Hello there 👋 Thank you for being here. 
 
-Hola explorer 👋 
+My name is Jesús Álvarez and I am a self trained Frontend developer. 
 
-Realiza las indicaciones de la weekly mission y monta tu propio blog. Espero que te sirva como bitácora de aprendizaje para compartir todas tus experiencias de Launch X. 
-
-Así como también puedes crear tu **Workbook**:
-
-![Ilustración_sin_título 2](https://user-images.githubusercontent.com/17634377/156294681-a7d2feb4-d41e-464f-9dbf-0fbc781aa056.png)
+This blog is for my own sake mostly and for anyone out there who want to now what I am up to and what I've been doing.
